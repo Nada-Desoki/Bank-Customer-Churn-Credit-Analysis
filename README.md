@@ -132,15 +132,5 @@ Dashboard Preview
 
 
 
-
-
-
-
-
-
-
-
-
-- Customers aged 40–55 represented the highest churn segment.
 - Lower-income, married, and graduate customers showed higher churn concentration.
 - No female customers were represented in the 60K+ income category.
