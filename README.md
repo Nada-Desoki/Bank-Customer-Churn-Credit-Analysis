@@ -128,9 +128,5 @@ Note:
 Dashboard Preview
 
 <img width="1426" height="804" alt="Screenshot 2026-05-18 152436" src="https://github.com/user-attachments/assets/e7aac9e4-7486-4882-a320-e05778194260" />
-
-
-
-
 - Lower-income, married, and graduate customers showed higher churn concentration.
 - No female customers were represented in the 60K+ income category.
